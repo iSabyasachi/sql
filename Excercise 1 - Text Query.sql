@@ -1,5 +1,5 @@
--- Excercise : Exercise - Retrieve Data Using Numeric Query 
--- (BETWEEN, IN, ORDER BY, LIMIT, OFFSET) 
+-- Excercise : Exercise - Retrieve Data Using Text Query 
+-- (SELECT, WHERE, DISTINCT, LIKE)
 USE moviesdb;
 -- 1. Print all movie titles and release year for all Marvel Studios movies.
 select m.title, m.release_year from movies m where m.studio = 'Marvel Studios';
