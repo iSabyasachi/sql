@@ -1,0 +1,104 @@
+region,customer,net_sales_pct
+APAC,Amazon ,12.99
+APAC,Atliq Exclusive,11.67
+APAC,Atliq e Store,8.36
+APAC,Leader,5.55
+APAC,Sage,5.17
+APAC,Neptune,4.75
+APAC,Electricalsocity,3.68
+APAC,Propel,3.2
+APAC,Synthetic,3.2
+APAC,Flipkart,2.93
+APAC,Novus,2.92
+APAC,Expression,2.92
+APAC,Girias,2.56
+APAC,Vijay Sales,2.55
+APAC,Ebay,2.52
+APAC,Reliance Digital,2.51
+APAC,Electricalslytical,2.51
+APAC,Lotus,2.38
+APAC,Ezone,2.33
+APAC,Viveks,2.28
+APAC,Croma,2.24
+APAC,Zone,1.56
+APAC,Acclaimed Stores,1.31
+APAC,Taobao,0.98
+APAC,Digimarket,0.9
+APAC,Forward Stores,0.87
+APAC,Insight,0.82
+APAC,Sound,0.78
+APAC,Surface Stores,0.63
+APAC,Logic Stores,0.5
+APAC,Epic Stores,0.44
+APAC,Path,0.43
+APAC,Control,0.37
+APAC,Nomad Stores,0.35
+APAC,All-Out,0.24
+APAC,Electricalsbea Stores,0.21
+APAC,Flawless Stores,0.2
+APAC,Info Stores,0.2
+EU,Atliq e Store,9.87
+EU,Amazon ,9.84
+EU,Atliq Exclusive,6.67
+EU,UniEuro,4.8
+EU,Expert,4.17
+EU,Chip 7,3.6
+EU,Radio Popular,3.46
+EU,Media Markt,3.43
+EU,Elkjøp,3.37
+EU,Sorefoz,3.05
+EU,Coolblue,2.78
+EU,Elite,2.69
+EU,Boulanger,2.65
+EU,Mbit,2.58
+EU,Euronics,2.54
+EU,Electricalsquipo Stores,2.37
+EU,Electricalslytical,2.27
+EU,Atlas Stores,2.07
+EU,Logic Stores,2.04
+EU,Chiptec,1.96
+EU,Fnac-Darty,1.88
+EU,Epic Stores,1.76
+EU,Electricalslance Stores,1.53
+EU,Argos (Sainsbury's),1.48
+EU,Power,1.29
+EU,Currys (Dixons Carphone),1.21
+EU,Electricalsara Stores,1.21
+EU,Sound,1.12
+EU,Synthetic,0.98
+EU,Flipkart,0.97
+EU,Integration Stores,0.94
+EU,Relief,0.85
+EU,Reliance Digital,0.82
+EU,Billa,0.82
+EU,Unity Stores,0.8
+EU,Otto,0.78
+EU,Saturn,0.78
+EU,Info Stores,0.75
+EU,Forward Stores,0.74
+EU,Flawless Stores,0.73
+EU,Notebillig,0.73
+EU,Digimarket,0.72
+EU,Premium Stores,0.69
+EU,Nova,0.23
+LATAM,Amazon ,48.73
+LATAM,Atliq e Store,34.49
+LATAM,Electricalsbea Stores,16.77
+NA,Amazon ,17.03
+NA,Atliq Exclusive,8.4
+NA,walmart,7.1
+NA,Atliq e Store,6.98
+NA,Costco,6.85
+NA,Staples,6.46
+NA,Flipkart,5.82
+NA,Path,5.11
+NA,Ebay,4.91
+NA,Acclaimed Stores,4.79
+NA,Control,4.77
+NA,BestBuy,4.64
+NA,Circuit City,4.56
+NA,Radio Shack,4
+NA,Sage,2.37
+NA,Nomad Stores,2.1
+NA,Premium Stores,2.08
+NA,Relief,2.03

@@ -1,0 +1,1 @@
+select *, ST_AsText(location) from sakila.address;
